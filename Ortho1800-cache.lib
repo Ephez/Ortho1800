@@ -1,11 +1,34 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Ortho1800-rescue:AT90USB1286-AU-MCU_Atmel_AVR
+# Device_LED
 #
-DEF Ortho1800-rescue:AT90USB1286-AU-MCU_Atmel_AVR U 0 40 Y Y 1 F N
+DEF Device_LED D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "Device_LED" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ LED*
+ LED_SMD:*
+ LED_THT:*
+$ENDFPLIST
+DRAW
+P 2 0 1 8 -50 -50 -50 50 N
+P 2 0 1 0 -50 0 50 0 N
+P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Ortho1800-rescue_AT90USB1286-AU-MCU_Atmel_AVR
+#
+DEF Ortho1800-rescue_AT90USB1286-AU-MCU_Atmel_AVR U 0 40 Y Y 1 F N
 F0 "U" -900 1850 50 H V L CNN
-F1 "Ortho1800-rescue:AT90USB1286-AU-MCU_Atmel_AVR" 900 1850 50 H V R CNN
+F1 "Ortho1800-rescue_AT90USB1286-AU-MCU_Atmel_AVR" 900 1850 50 H V R CNN
 F2 "Package_QFP:TQFP-64_14x14mm_P0.8mm" 0 0 50 H I C CNN
 F3 "" -1100 -600 50 H I C CNN
 $FPLIST
@@ -80,11 +103,11 @@ X PE3(IUID) 9 -1100 -400 200 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:C-Device
+# Ortho1800-rescue_C-Device
 #
-DEF Ortho1800-rescue:C-Device C 0 10 N Y 1 F N
+DEF Ortho1800-rescue_C-Device C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "Ortho1800-rescue:C-Device" 25 -100 50 H V L CNN
+F1 "Ortho1800-rescue_C-Device" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -98,11 +121,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:Conn_01x01-Connector_Generic
+# Ortho1800-rescue_Conn_01x01-Connector_Generic
 #
-DEF Ortho1800-rescue:Conn_01x01-Connector_Generic J 0 40 Y N 1 F N
+DEF Ortho1800-rescue_Conn_01x01-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "Ortho1800-rescue:Conn_01x01-Connector_Generic" 0 -100 50 H V C CNN
+F1 "Ortho1800-rescue_Conn_01x01-Connector_Generic" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -115,11 +138,11 @@ X Pin_1 1 -200 0 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:Conn_01x02-Connector_Generic
+# Ortho1800-rescue_Conn_01x02-Connector_Generic
 #
-DEF Ortho1800-rescue:Conn_01x02-Connector_Generic J 0 40 Y N 1 F N
+DEF Ortho1800-rescue_Conn_01x02-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "Ortho1800-rescue:Conn_01x02-Connector_Generic" 0 -200 50 H V C CNN
+F1 "Ortho1800-rescue_Conn_01x02-Connector_Generic" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -134,11 +157,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:Conn_01x04_Female-Connector_Generic
+# Ortho1800-rescue_Conn_01x04_Female-Connector_Generic
 #
-DEF Ortho1800-rescue:Conn_01x04_Female-Connector_Generic J 0 40 Y N 1 F N
+DEF Ortho1800-rescue_Conn_01x04_Female-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "Ortho1800-rescue:Conn_01x04_Female-Connector_Generic" 0 -300 50 H V C CNN
+F1 "Ortho1800-rescue_Conn_01x04_Female-Connector_Generic" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -160,11 +183,11 @@ X Pin_4 4 -200 -200 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:Conn_02x03_Odd_Even-Connector_Generic
+# Ortho1800-rescue_Conn_02x03_Odd_Even-Connector_Generic
 #
-DEF Ortho1800-rescue:Conn_02x03_Odd_Even-Connector_Generic J 0 40 Y N 1 F N
+DEF Ortho1800-rescue_Conn_02x03_Odd_Even-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 50 200 50 H V C CNN
-F1 "Ortho1800-rescue:Conn_02x03_Odd_Even-Connector_Generic" 50 -200 50 H V C CNN
+F1 "Ortho1800-rescue_Conn_02x03_Odd_Even-Connector_Generic" 50 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -187,11 +210,11 @@ X Pin_6 6 300 -100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:Crystal-Device
+# Ortho1800-rescue_Crystal-Device
 #
-DEF Ortho1800-rescue:Crystal-Device Y 0 40 N N 1 F N
+DEF Ortho1800-rescue_Crystal-Device Y 0 40 N N 1 F N
 F0 "Y" 0 150 50 H V C CNN
-F1 "Ortho1800-rescue:Crystal-Device" 0 -150 50 H V C CNN
+F1 "Ortho1800-rescue_Crystal-Device" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -208,11 +231,11 @@ X 2 2 150 0 50 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:D_ALT-Device
+# Ortho1800-rescue_D_ALT-Device
 #
-DEF Ortho1800-rescue:D_ALT-Device D 0 40 N N 1 F N
+DEF Ortho1800-rescue_D_ALT-Device D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "Ortho1800-rescue:D_ALT-Device" 0 -100 50 H V C CNN
+F1 "Ortho1800-rescue_D_ALT-Device" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -231,11 +254,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:GNDA-power
+# Ortho1800-rescue_GNDA-power
 #
-DEF Ortho1800-rescue:GNDA-power #PWR 0 0 Y Y 1 F P
+DEF Ortho1800-rescue_GNDA-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "Ortho1800-rescue:GNDA-power" 0 -150 50 H V C CNN
+F1 "Ortho1800-rescue_GNDA-power" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -244,11 +267,11 @@ X GNDA 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:R-Device
+# Ortho1800-rescue_R-Device
 #
-DEF Ortho1800-rescue:R-Device R 0 0 N Y 1 F N
+DEF Ortho1800-rescue_R-Device R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "Ortho1800-rescue:R-Device" 0 0 50 V V C CNN
+F1 "Ortho1800-rescue_R-Device" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -262,11 +285,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:SW_DPST_x2-Switch
+# Ortho1800-rescue_SW_DPST_x2-Switch
 #
-DEF Ortho1800-rescue:SW_DPST_x2-Switch SW 0 0 Y N 2 F N
+DEF Ortho1800-rescue_SW_DPST_x2-Switch SW 0 0 Y N 2 F N
 F0 "SW" 0 125 50 H V C CNN
-F1 "Ortho1800-rescue:SW_DPST_x2-Switch" 0 -100 50 H V C CNN
+F1 "Ortho1800-rescue_SW_DPST_x2-Switch" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -280,11 +303,11 @@ X B 4 200 0 100 L 50 50 2 1 I
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:SW_SPST-Switch
+# Ortho1800-rescue_SW_SPST-Switch
 #
-DEF Ortho1800-rescue:SW_SPST-Switch SW 0 0 Y N 1 F N
+DEF Ortho1800-rescue_SW_SPST-Switch SW 0 0 Y N 1 F N
 F0 "SW" 0 125 50 H V C CNN
-F1 "Ortho1800-rescue:SW_SPST-Switch" 0 -100 50 H V C CNN
+F1 "Ortho1800-rescue_SW_SPST-Switch" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -296,11 +319,11 @@ X B 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:USB_C_Receptacle-Connector_Specialized
+# Ortho1800-rescue_USB_C_Receptacle-Connector_Specialized
 #
-DEF Ortho1800-rescue:USB_C_Receptacle-Connector_Specialized J 0 40 Y Y 1 F N
+DEF Ortho1800-rescue_USB_C_Receptacle-Connector_Specialized J 0 40 Y Y 1 F N
 F0 "J" -400 1450 50 H V L CNN
-F1 "Ortho1800-rescue:USB_C_Receptacle-Connector_Specialized" 400 1450 50 H V R CNN
+F1 "Ortho1800-rescue_USB_C_Receptacle-Connector_Specialized" 400 1450 50 H V R CNN
 F2 "" 150 0 50 H I C CNN
 F3 "" 150 0 50 H I C CNN
 $FPLIST
@@ -376,11 +399,11 @@ X SHIELD S1 -300 -1600 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:VCC-power
+# Ortho1800-rescue_VCC-power
 #
-DEF Ortho1800-rescue:VCC-power #PWR 0 0 Y Y 1 F P
+DEF Ortho1800-rescue_VCC-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "Ortho1800-rescue:VCC-power" 0 150 50 H V C CNN
+F1 "Ortho1800-rescue_VCC-power" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -390,11 +413,11 @@ X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue:WS2812S-LED
+# Ortho1800-rescue_WS2812S-LED
 #
-DEF Ortho1800-rescue:WS2812S-LED LED 0 40 Y Y 1 F N
+DEF Ortho1800-rescue_WS2812S-LED LED 0 40 Y Y 1 F N
 F0 "LED" 0 -200 50 H V C CNN
-F1 "Ortho1800-rescue:WS2812S-LED" 0 200 50 H V C CNN
+F1 "Ortho1800-rescue_WS2812S-LED" 0 200 50 H V C CNN
 F2 "LEDs:LED_WS2812-PLCC6" -100 -300 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
