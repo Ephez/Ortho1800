@@ -1,26 +1,20 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Device_LED
+# Device_R_Small
 #
-DEF Device_LED D 0 40 N N 1 F N
-F0 "D" 0 100 50 H V C CNN
-F1 "Device_LED" 0 -100 50 H V C CNN
+DEF Device_R_Small R 0 10 N N 1 F N
+F0 "R" 30 20 50 H V L CNN
+F1 "Device_R_Small" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- LED*
- LED_SMD:*
- LED_THT:*
+ R_*
 $ENDFPLIST
 DRAW
-P 2 0 1 8 -50 -50 -50 50 N
-P 2 0 1 0 -50 0 50 0 N
-P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
-P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
-P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
-X K 1 -150 0 100 R 50 50 1 1 P
-X A 2 150 0 100 L 50 50 1 1 P
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 50 50 1 1 P
+X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -303,22 +297,6 @@ X B 4 200 0 100 L 50 50 2 1 I
 ENDDRAW
 ENDDEF
 #
-# Ortho1800-rescue_SW_SPST-Switch
-#
-DEF Ortho1800-rescue_SW_SPST-Switch SW 0 0 Y N 1 F N
-F0 "SW" 0 125 50 H V C CNN
-F1 "Ortho1800-rescue_SW_SPST-Switch" 0 -100 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-C -80 0 20 0 0 0 N
-C 80 0 20 0 0 0 N
-P 2 0 0 0 -60 10 60 70 N
-X A 1 -200 0 100 R 50 50 1 1 P
-X B 2 200 0 100 L 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Ortho1800-rescue_USB_C_Receptacle-Connector_Specialized
 #
 DEF Ortho1800-rescue_USB_C_Receptacle-Connector_Specialized J 0 40 Y Y 1 F N
@@ -427,6 +405,28 @@ X DIN 2 -400 -100 100 R 50 50 1 1 I
 X VCC 3 -400 100 100 R 50 50 1 1 W
 X VDD 5 -400 0 100 R 50 50 1 1 W
 X VSS 6 400 -100 100 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# sw_withled_SW_WITHLED
+#
+DEF sw_withled_SW_WITHLED SW 0 40 Y Y 1 F N
+F0 "SW" 0 -25 25 H V C CNN
+F1 "sw_withled_SW_WITHLED" 0 -60 25 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 2 0 1 0 -50 0 50 50 N
+P 2 0 1 0 -25 75 -25 125 N
+P 2 0 1 0 -25 100 -50 100 N
+P 2 0 1 0 25 100 50 100 N
+P 4 0 1 0 -25 100 25 125 25 75 -25 100 N
+P 6 0 1 0 -5 130 -20 145 -15 150 -25 140 -30 155 -15 150 N
+P 6 0 1 0 15 140 0 155 5 160 -10 165 -5 150 0 155 N
+X ~ 1 -200 0 150 R 50 50 1 1 I
+X ~ 2 200 0 150 L 50 50 1 1 I
+X ~ 3 -100 100 50 R 50 50 1 1 I
+X ~ 4 100 100 50 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
