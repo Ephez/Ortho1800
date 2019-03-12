@@ -3237,7 +3237,7 @@ Wire Notes Line
 Wire Notes Line
 	13900 4700 14800 4700
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C52259C
 P 1300 4350
 F 0 "SW?" H 1300 4621 25  0000 C CNN
@@ -3248,7 +3248,7 @@ F 3 "" H 1300 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C526C17
 P 1800 4350
 F 0 "SW?" H 1800 4621 25  0000 C CNN
@@ -3259,7 +3259,7 @@ F 3 "" H 1800 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C526E83
 P 2800 4350
 F 0 "SW?" H 2800 4621 25  0000 C CNN
@@ -3270,7 +3270,7 @@ F 3 "" H 2800 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C527101
 P 4300 4350
 F 0 "SW?" H 4300 4621 25  0000 C CNN
@@ -3281,7 +3281,7 @@ F 3 "" H 4300 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C52737B
 P 6300 4350
 F 0 "SW?" H 6300 4621 25  0000 C CNN
@@ -3292,7 +3292,7 @@ F 3 "" H 6300 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C52760D
 P 6800 4350
 F 0 "SW?" H 6800 4621 25  0000 C CNN
@@ -3303,7 +3303,7 @@ F 3 "" H 6800 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C527875
 P 7300 4350
 F 0 "SW?" H 7300 4621 25  0000 C CNN
@@ -3314,7 +3314,7 @@ F 3 "" H 7300 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C527AE5
 P 7850 4350
 F 0 "SW?" H 7850 4621 25  0000 C CNN
@@ -3325,7 +3325,7 @@ F 3 "" H 7850 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C527D57
 P 8350 4350
 F 0 "SW?" H 8350 4621 25  0000 C CNN
@@ -3336,7 +3336,7 @@ F 3 "" H 8350 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C527FD5
 P 8850 4350
 F 0 "SW?" H 8850 4621 25  0000 C CNN
@@ -3347,7 +3347,7 @@ F 3 "" H 8850 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C52824B
 P 9800 4350
 F 0 "SW?" H 9800 4621 25  0000 C CNN
@@ -3358,7 +3358,7 @@ F 3 "" H 9800 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5284C9
 P 10300 4350
 F 0 "SW?" H 10300 4621 25  0000 C CNN
@@ -3369,7 +3369,7 @@ F 3 "" H 10300 4350 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54A1C6
 P 9300 3700
 F 0 "SW?" H 9300 3971 25  0000 C CNN
@@ -3380,7 +3380,7 @@ F 3 "" H 9300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54A3AE
 P 9800 3700
 F 0 "SW?" H 9800 3971 25  0000 C CNN
@@ -3391,7 +3391,7 @@ F 3 "" H 9800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54A586
 P 10300 3700
 F 0 "SW?" H 10300 3971 25  0000 C CNN
@@ -3402,7 +3402,7 @@ F 3 "" H 10300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54A75E
 P 10800 3700
 F 0 "SW?" H 10800 3971 25  0000 C CNN
@@ -3413,7 +3413,7 @@ F 3 "" H 10800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54A940
 P 10800 3100
 F 0 "SW?" H 10800 3371 25  0000 C CNN
@@ -3424,7 +3424,7 @@ F 3 "" H 10800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54AB1C
 P 10300 3100
 F 0 "SW?" H 10300 3371 25  0000 C CNN
@@ -3435,7 +3435,7 @@ F 3 "" H 10300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54ACF8
 P 9800 3100
 F 0 "SW?" H 9800 3371 25  0000 C CNN
@@ -3446,7 +3446,7 @@ F 3 "" H 9800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54AED4
 P 9300 3100
 F 0 "SW?" H 9300 3371 25  0000 C CNN
@@ -3457,7 +3457,7 @@ F 3 "" H 9300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54B0B6
 P 9300 2500
 F 0 "SW?" H 9300 2771 25  0000 C CNN
@@ -3468,7 +3468,7 @@ F 3 "" H 9300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54B29E
 P 9800 2500
 F 0 "SW?" H 9800 2771 25  0000 C CNN
@@ -3479,7 +3479,7 @@ F 3 "" H 9800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54B480
 P 10300 2500
 F 0 "SW?" H 10300 2771 25  0000 C CNN
@@ -3490,7 +3490,7 @@ F 3 "" H 10300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54B664
 P 10800 1900
 F 0 "SW?" H 10800 2171 25  0000 C CNN
@@ -3501,7 +3501,7 @@ F 3 "" H 10800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54B854
 P 10300 1900
 F 0 "SW?" H 10300 2171 25  0000 C CNN
@@ -3512,7 +3512,7 @@ F 3 "" H 10300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54BA3E
 P 9800 1900
 F 0 "SW?" H 9800 2171 25  0000 C CNN
@@ -3523,7 +3523,7 @@ F 3 "" H 9800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54BC22
 P 9300 1900
 F 0 "SW?" H 9300 2171 25  0000 C CNN
@@ -3534,7 +3534,7 @@ F 3 "" H 9300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54BE0C
 P 9300 1050
 F 0 "SW?" H 9300 1321 25  0000 C CNN
@@ -3545,7 +3545,7 @@ F 3 "" H 9300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54C000
 P 9800 1050
 F 0 "SW?" H 9800 1321 25  0000 C CNN
@@ -3556,7 +3556,7 @@ F 3 "" H 9800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54C1F2
 P 10300 1050
 F 0 "SW?" H 10300 1321 25  0000 C CNN
@@ -3567,7 +3567,7 @@ F 3 "" H 10300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C54C3EA
 P 10800 1050
 F 0 "SW?" H 10800 1321 25  0000 C CNN
@@ -3578,7 +3578,7 @@ F 3 "" H 10800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C554697
 P 8350 3700
 F 0 "SW?" H 8350 3971 25  0000 C CNN
@@ -3589,7 +3589,7 @@ F 3 "" H 8350 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C55488D
 P 7300 3700
 F 0 "SW?" H 7300 3971 25  0000 C CNN
@@ -3600,7 +3600,7 @@ F 3 "" H 7300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C554A89
 P 6300 3700
 F 0 "SW?" H 6300 3971 25  0000 C CNN
@@ -3611,7 +3611,7 @@ F 3 "" H 6300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C554C99
 P 5800 3700
 F 0 "SW?" H 5800 3971 25  0000 C CNN
@@ -3622,7 +3622,7 @@ F 3 "" H 5800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C554E9D
 P 5300 3700
 F 0 "SW?" H 5300 3971 25  0000 C CNN
@@ -3633,7 +3633,7 @@ F 3 "" H 5300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5550A3
 P 4800 3700
 F 0 "SW?" H 4800 3971 25  0000 C CNN
@@ -3644,7 +3644,7 @@ F 3 "" H 4800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5552A7
 P 4300 3700
 F 0 "SW?" H 4300 3971 25  0000 C CNN
@@ -3655,7 +3655,7 @@ F 3 "" H 4300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5554A9
 P 3800 3700
 F 0 "SW?" H 3800 3971 25  0000 C CNN
@@ -3666,7 +3666,7 @@ F 3 "" H 3800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5556AB
 P 3300 3700
 F 0 "SW?" H 3300 3971 25  0000 C CNN
@@ -3677,7 +3677,7 @@ F 3 "" H 3300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5558B1
 P 2800 3700
 F 0 "SW?" H 2800 3971 25  0000 C CNN
@@ -3688,7 +3688,7 @@ F 3 "" H 2800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C555AC1
 P 2300 3700
 F 0 "SW?" H 2300 3971 25  0000 C CNN
@@ -3699,7 +3699,7 @@ F 3 "" H 2300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C555CD1
 P 1800 3700
 F 0 "SW?" H 1800 3971 25  0000 C CNN
@@ -3710,7 +3710,7 @@ F 3 "" H 1800 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C555EDD
 P 1300 3700
 F 0 "SW?" H 1300 3971 25  0000 C CNN
@@ -3721,7 +3721,7 @@ F 3 "" H 1300 3700 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5560E9
 P 1300 3100
 F 0 "SW?" H 1300 3371 25  0000 C CNN
@@ -3732,7 +3732,7 @@ F 3 "" H 1300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C55631B
 P 1800 3100
 F 0 "SW?" H 1800 3371 25  0000 C CNN
@@ -3743,7 +3743,7 @@ F 3 "" H 1800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C556535
 P 2300 3100
 F 0 "SW?" H 2300 3371 25  0000 C CNN
@@ -3754,7 +3754,7 @@ F 3 "" H 2300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C55674D
 P 2800 3100
 F 0 "SW?" H 2800 3371 25  0000 C CNN
@@ -3769,7 +3769,7 @@ Wire Wire Line
 Wire Wire Line
 	2500 3250 2500 3100
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BB95E
 P 3300 3100
 F 0 "SW?" H 3300 3371 25  0000 C CNN
@@ -3780,7 +3780,7 @@ F 3 "" H 3300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BBB76
 P 3800 3100
 F 0 "SW?" H 3800 3371 25  0000 C CNN
@@ -3791,7 +3791,7 @@ F 3 "" H 3800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BC1A0
 P 4300 3100
 F 0 "SW?" H 4300 3371 25  0000 C CNN
@@ -3802,7 +3802,7 @@ F 3 "" H 4300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BC3B6
 P 4800 3100
 F 0 "SW?" H 4800 3371 25  0000 C CNN
@@ -3813,7 +3813,7 @@ F 3 "" H 4800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BC5D4
 P 5300 3100
 F 0 "SW?" H 5300 3371 25  0000 C CNN
@@ -3824,7 +3824,7 @@ F 3 "" H 5300 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BC7F2
 P 5800 3100
 F 0 "SW?" H 5800 3371 25  0000 C CNN
@@ -3835,7 +3835,7 @@ F 3 "" H 5800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BCA10
 P 5800 2500
 F 0 "SW?" H 5800 2771 25  0000 C CNN
@@ -3846,7 +3846,7 @@ F 3 "" H 5800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BCC34
 P 5300 2500
 F 0 "SW?" H 5300 2771 25  0000 C CNN
@@ -3857,7 +3857,7 @@ F 3 "" H 5300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BCE58
 P 4800 2500
 F 0 "SW?" H 4800 2771 25  0000 C CNN
@@ -3868,7 +3868,7 @@ F 3 "" H 4800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BD07C
 P 4300 2500
 F 0 "SW?" H 4300 2771 25  0000 C CNN
@@ -3879,7 +3879,7 @@ F 3 "" H 4300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BD2A6
 P 3800 2500
 F 0 "SW?" H 3800 2771 25  0000 C CNN
@@ -3890,7 +3890,7 @@ F 3 "" H 3800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BD4D4
 P 3300 2500
 F 0 "SW?" H 3300 2771 25  0000 C CNN
@@ -3901,7 +3901,7 @@ F 3 "" H 3300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BD708
 P 2800 2500
 F 0 "SW?" H 2800 2771 25  0000 C CNN
@@ -3912,7 +3912,7 @@ F 3 "" H 2800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BD934
 P 2300 2500
 F 0 "SW?" H 2300 2771 25  0000 C CNN
@@ -3923,7 +3923,7 @@ F 3 "" H 2300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BDB60
 P 1800 2500
 F 0 "SW?" H 1800 2771 25  0000 C CNN
@@ -3934,7 +3934,7 @@ F 3 "" H 1800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5BDD8A
 P 1300 2500
 F 0 "SW?" H 1300 2771 25  0000 C CNN
@@ -3945,7 +3945,7 @@ F 3 "" H 1300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C222C
 P 1300 1900
 F 0 "SW?" H 1300 2171 25  0000 C CNN
@@ -3956,7 +3956,7 @@ F 3 "" H 1300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C245C
 P 1800 1900
 F 0 "SW?" H 1800 2171 25  0000 C CNN
@@ -3967,7 +3967,7 @@ F 3 "" H 1800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C269E
 P 2300 1900
 F 0 "SW?" H 2300 2171 25  0000 C CNN
@@ -3978,7 +3978,7 @@ F 3 "" H 2300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C28D4
 P 2800 1900
 F 0 "SW?" H 2800 2171 25  0000 C CNN
@@ -3989,7 +3989,7 @@ F 3 "" H 2800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C2B1C
 P 3300 1900
 F 0 "SW?" H 3300 2171 25  0000 C CNN
@@ -4000,7 +4000,7 @@ F 3 "" H 3300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C2D60
 P 3800 1900
 F 0 "SW?" H 3800 2171 25  0000 C CNN
@@ -4011,7 +4011,7 @@ F 3 "" H 3800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C2FB6
 P 4300 1900
 F 0 "SW?" H 4300 2171 25  0000 C CNN
@@ -4022,7 +4022,7 @@ F 3 "" H 4300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C320C
 P 4800 1900
 F 0 "SW?" H 4800 2171 25  0000 C CNN
@@ -4033,7 +4033,7 @@ F 3 "" H 4800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C3460
 P 5300 1900
 F 0 "SW?" H 5300 2171 25  0000 C CNN
@@ -4044,7 +4044,7 @@ F 3 "" H 5300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C3A09
 P 5800 1900
 F 0 "SW?" H 5800 2171 25  0000 C CNN
@@ -4055,7 +4055,7 @@ F 3 "" H 5800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C3C53
 P 1300 1050
 F 0 "SW?" H 1300 1321 25  0000 C CNN
@@ -4066,7 +4066,7 @@ F 3 "" H 1300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C3EA5
 P 1800 1050
 F 0 "SW?" H 1800 1321 25  0000 C CNN
@@ -4077,7 +4077,7 @@ F 3 "" H 1800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C40EB
 P 2300 1050
 F 0 "SW?" H 2300 1321 25  0000 C CNN
@@ -4088,7 +4088,7 @@ F 3 "" H 2300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C4337
 P 2800 1050
 F 0 "SW?" H 2800 1321 25  0000 C CNN
@@ -4099,7 +4099,7 @@ F 3 "" H 2800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C458F
 P 3300 1050
 F 0 "SW?" H 3300 1321 25  0000 C CNN
@@ -4110,7 +4110,7 @@ F 3 "" H 3300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C47DB
 P 4300 1050
 F 0 "SW?" H 4300 1321 25  0000 C CNN
@@ -4121,7 +4121,7 @@ F 3 "" H 4300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C4A2B
 P 4800 1050
 F 0 "SW?" H 4800 1321 25  0000 C CNN
@@ -4132,7 +4132,7 @@ F 3 "" H 4800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C4C89
 P 5300 1050
 F 0 "SW?" H 5300 1321 25  0000 C CNN
@@ -4143,7 +4143,7 @@ F 3 "" H 5300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5C4ED9
 P 5800 1050
 F 0 "SW?" H 5800 1321 25  0000 C CNN
@@ -4154,7 +4154,7 @@ F 3 "" H 5800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D25B9
 P 6300 1050
 F 0 "SW?" H 6300 1321 25  0000 C CNN
@@ -4165,7 +4165,7 @@ F 3 "" H 6300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D2837
 P 6800 1050
 F 0 "SW?" H 6800 1321 25  0000 C CNN
@@ -4176,7 +4176,7 @@ F 3 "" H 6800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D2A95
 P 7300 1050
 F 0 "SW?" H 7300 1321 25  0000 C CNN
@@ -4187,7 +4187,7 @@ F 3 "" H 7300 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D2CEF
 P 7800 1050
 F 0 "SW?" H 7800 1321 25  0000 C CNN
@@ -4198,7 +4198,7 @@ F 3 "" H 7800 1050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D2F4F
 P 7800 1900
 F 0 "SW?" H 7800 2171 25  0000 C CNN
@@ -4209,7 +4209,7 @@ F 3 "" H 7800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D31A9
 P 7300 1900
 F 0 "SW?" H 7300 2171 25  0000 C CNN
@@ -4220,7 +4220,7 @@ F 3 "" H 7300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D3409
 P 6800 1900
 F 0 "SW?" H 6800 2171 25  0000 C CNN
@@ -4231,7 +4231,7 @@ F 3 "" H 6800 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D3669
 P 6300 1900
 F 0 "SW?" H 6300 2171 25  0000 C CNN
@@ -4242,7 +4242,7 @@ F 3 "" H 6300 1900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D38D5
 P 6300 2500
 F 0 "SW?" H 6300 2771 25  0000 C CNN
@@ -4253,7 +4253,7 @@ F 3 "" H 6300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D3B3F
 P 6800 2500
 F 0 "SW?" H 6800 2771 25  0000 C CNN
@@ -4264,7 +4264,7 @@ F 3 "" H 6800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D3DA5
 P 7300 2500
 F 0 "SW?" H 7300 2771 25  0000 C CNN
@@ -4275,7 +4275,7 @@ F 3 "" H 7300 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D4015
 P 7800 2500
 F 0 "SW?" H 7800 2771 25  0000 C CNN
@@ -4286,7 +4286,7 @@ F 3 "" H 7800 2500 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D428B
 P 7800 3100
 F 0 "SW?" H 7800 3371 25  0000 C CNN
@@ -4297,7 +4297,7 @@ F 3 "" H 7800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D44F9
 P 6800 3100
 F 0 "SW?" H 6800 3371 25  0000 C CNN
@@ -4308,7 +4308,7 @@ F 3 "" H 6800 3100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L sw_withled:SW_WITHLED SW?
+L Ortho1800-rescue:SW_WITHLED-sw_withled SW?
 U 1 1 5C5D4771
 P 6300 3100
 F 0 "SW?" H 6300 3371 25  0000 C CNN
@@ -4361,5 +4361,131 @@ F 2 "" H 10950 1650 50  0001 C CNN
 F 3 "~" H 10950 1650 50  0001 C CNN
 	1    10950 1650
 	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 950  1450 950 
+Wire Wire Line
+	1450 950  1450 850 
+Wire Wire Line
+	1450 850  1950 850 
+Wire Wire Line
+	1950 850  1950 950 
+Wire Wire Line
+	1950 950  1900 950 
+Wire Wire Line
+	1950 850  2450 850 
+Wire Wire Line
+	2450 850  2450 950 
+Wire Wire Line
+	2450 950  2400 950 
+Connection ~ 1950 850 
+Wire Wire Line
+	2450 850  2950 850 
+Wire Wire Line
+	2950 850  2950 950 
+Wire Wire Line
+	2950 950  2900 950 
+Connection ~ 2450 850 
+Wire Wire Line
+	2950 850  3450 850 
+Wire Wire Line
+	3450 850  3450 950 
+Wire Wire Line
+	3450 950  3400 950 
+Connection ~ 2950 850 
+Wire Wire Line
+	3450 850  4450 850 
+Wire Wire Line
+	4450 850  4450 950 
+Wire Wire Line
+	4450 950  4400 950 
+Connection ~ 3450 850 
+Wire Wire Line
+	4450 850  4950 850 
+Wire Wire Line
+	4950 850  4950 950 
+Wire Wire Line
+	4950 950  4900 950 
+Connection ~ 4450 850 
+Wire Wire Line
+	5400 950  5450 950 
+Wire Wire Line
+	5450 950  5450 850 
+Wire Wire Line
+	5450 850  4950 850 
+Connection ~ 4950 850 
+Wire Wire Line
+	5450 850  5950 850 
+Wire Wire Line
+	5950 850  5950 950 
+Wire Wire Line
+	5950 950  5900 950 
+Connection ~ 5450 850 
+Wire Wire Line
+	5950 850  6450 850 
+Wire Wire Line
+	6450 850  6450 950 
+Wire Wire Line
+	6450 950  6400 950 
+Connection ~ 5950 850 
+Wire Wire Line
+	6450 850  6950 850 
+Wire Wire Line
+	6950 850  6950 950 
+Wire Wire Line
+	6950 950  6900 950 
+Connection ~ 6450 850 
+Wire Wire Line
+	6950 850  7450 850 
+Wire Wire Line
+	7450 850  7450 950 
+Wire Wire Line
+	7450 950  7400 950 
+Connection ~ 6950 850 
+Wire Wire Line
+	7450 850  7950 850 
+Wire Wire Line
+	7950 850  7950 950 
+Wire Wire Line
+	7950 950  7900 950 
+Connection ~ 7450 850 
+Wire Wire Line
+	7950 850  9450 850 
+Wire Wire Line
+	9450 850  9450 950 
+Wire Wire Line
+	9450 950  9400 950 
+Connection ~ 7950 850 
+Wire Wire Line
+	9450 850  9950 850 
+Wire Wire Line
+	9950 850  9950 950 
+Wire Wire Line
+	9950 950  9900 950 
+Connection ~ 9450 850 
+Wire Wire Line
+	9950 850  10450 850 
+Wire Wire Line
+	10450 850  10450 950 
+Wire Wire Line
+	10450 950  10400 950 
+Connection ~ 9950 850 
+Wire Wire Line
+	10450 850  10950 850 
+Wire Wire Line
+	10950 850  10950 950 
+Wire Wire Line
+	10950 950  10900 950 
+Connection ~ 10450 850 
+$Comp
+L Ortho1800-rescue:GNDA-power #PWR?
+U 1 1 5D1446CE
+P 1650 950
+F 0 "#PWR?" H 1650 700 50  0001 C CNN
+F 1 "GNDA" H 1655 777 50  0000 C CNN
+F 2 "" H 1650 950 50  0001 C CNN
+F 3 "" H 1650 950 50  0001 C CNN
+	1    1650 950 
+	0    1    1    0   
 $EndComp
 $EndSCHEMATC

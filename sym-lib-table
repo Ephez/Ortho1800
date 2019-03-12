@@ -2,4 +2,5 @@
   (lib (name Ortho1800-rescue)(type Legacy)(uri ${KIPRJMOD}/Ortho1800-rescue.lib)(options "")(descr ""))
   (lib (name sw_withled)(type Legacy)(uri C:/Users/nxf34093/Desktop/Universal-Switch-Footprint-master/sw_withled.lib)(options "")(descr ""))
   (lib (name Ortho1800)(type Legacy)(uri "C:/Users/nxf34093/Desktop/Library creation/test_lib/Ortho1800.lib")(options "")(descr ""))
+  (lib (name Ortho1800-cache)(type Legacy)(uri C:/Users/steph/OneDrive/Documents/GitHub/Ortho1800/Ortho1800-cache.lib)(options "")(descr ""))
 )
