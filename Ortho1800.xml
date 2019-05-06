@@ -1,0 +1,3401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\steph\OneDrive\Documents\GitHub\Ortho1800\Ortho1800.sch</source>
+    <date>5/4/2019 5:00:36 PM</date>
+    <tool>Eeschema (5.0.2)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Ortho1800.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>AT90USB1286-AU</value>
+      <footprint>Package_QFP:TQFP-64_14x14mm_P0.8mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/doc7593.pdf</datasheet>
+      <libsource lib="Ortho1800-rescue" part="AT90USB1286-AU-MCU_Atmel_AVR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A89A223</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A89AAA8</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8CE553</tstamp>
+    </comp>
+    <comp ref="J20">
+      <value>Conn_01x04_Female</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x04_Female-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D1E84</tstamp>
+    </comp>
+    <comp ref="LED1">
+      <value>WS2812S</value>
+      <footprint>LEDs:LED_WS2812-PLCC6</footprint>
+      <datasheet>http://www.world-semi.com/uploads/soft/140305/1-140305113P8.pdf</datasheet>
+      <libsource lib="Ortho1800-rescue" part="WS2812S-LED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D3675</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D5B09</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7286</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D737C</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7478</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7572</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7BCF</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7CFD</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7E07</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E7BD4</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E88B3</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E89C5</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E8ADD</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E8BF5</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E8D11</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E8E2F</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E8F51</tstamp>
+    </comp>
+    <comp ref="D68">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E90F3</tstamp>
+    </comp>
+    <comp ref="D73">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E9219</tstamp>
+    </comp>
+    <comp ref="D81">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E933D</tstamp>
+    </comp>
+    <comp ref="D86">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E9487</tstamp>
+    </comp>
+    <comp ref="D92">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E95AD</tstamp>
+    </comp>
+    <comp ref="D98">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8E96D3</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D7AC7</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D79C5</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D78C1</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D77B9</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8D6DFE</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3DC</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3E3</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3EA</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3F1</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3F8</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA3FF</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA406</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA40D</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA414</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA41B</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA422</tstamp>
+    </comp>
+    <comp ref="D64">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA429</tstamp>
+    </comp>
+    <comp ref="D69">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA430</tstamp>
+    </comp>
+    <comp ref="D74">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA437</tstamp>
+    </comp>
+    <comp ref="D82">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA43E</tstamp>
+    </comp>
+    <comp ref="D87">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA445</tstamp>
+    </comp>
+    <comp ref="D93">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA44C</tstamp>
+    </comp>
+    <comp ref="D100">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EA453</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB03E</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB045</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB04C</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB053</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB05A</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB061</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB068</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB06F</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB076</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB07D</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB084</tstamp>
+    </comp>
+    <comp ref="D65">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB08B</tstamp>
+    </comp>
+    <comp ref="D75">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB092</tstamp>
+    </comp>
+    <comp ref="D83">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB0A0</tstamp>
+    </comp>
+    <comp ref="D88">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB0A7</tstamp>
+    </comp>
+    <comp ref="D94">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB0AE</tstamp>
+    </comp>
+    <comp ref="D99">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EB901</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0D5</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0DC</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0E3</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0EA</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0F1</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0F8</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC0FF</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC106</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC10D</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC114</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC11B</tstamp>
+    </comp>
+    <comp ref="D70">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC129</tstamp>
+    </comp>
+    <comp ref="D84">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC137</tstamp>
+    </comp>
+    <comp ref="D89">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC13E</tstamp>
+    </comp>
+    <comp ref="D95">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC145</tstamp>
+    </comp>
+    <comp ref="D77">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EC14C</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8ED349</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8ED4DD</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8ED68D</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8ED839</tstamp>
+    </comp>
+    <comp ref="D66">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8ED9F9</tstamp>
+    </comp>
+    <comp ref="D71">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EDB93</tstamp>
+    </comp>
+    <comp ref="D76">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE021</tstamp>
+    </comp>
+    <comp ref="D78">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE1D1</tstamp>
+    </comp>
+    <comp ref="D79">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE36D</tstamp>
+    </comp>
+    <comp ref="D90">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE515</tstamp>
+    </comp>
+    <comp ref="D96">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE6C7</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EE92D</tstamp>
+    </comp>
+    <comp ref="D67">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EEAD3</tstamp>
+    </comp>
+    <comp ref="D72">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EEC7F</tstamp>
+    </comp>
+    <comp ref="D80">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EEE29</tstamp>
+    </comp>
+    <comp ref="D85">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EEFF9</tstamp>
+    </comp>
+    <comp ref="D91">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EF1A5</tstamp>
+    </comp>
+    <comp ref="D97">
+      <value>D_ALT</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="D_ALT-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8EF359</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>USB_C_Receptacle</value>
+      <datasheet>http://www.usb.org/developers/docs/usb_31_033017.zip</datasheet>
+      <libsource lib="Ortho1800-rescue" part="USB_C_Receptacle-Connector_Specialized" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A905A51</tstamp>
+    </comp>
+    <comp ref="J18">
+      <value>Conn_01x02</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AA26812</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ABD8F2D</tstamp>
+    </comp>
+    <comp ref="SW39">
+      <value>SW_DPST_x2</value>
+      <libsource lib="Ortho1800-rescue" part="SW_DPST_x2-Switch" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ACB1000</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AF9F554</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Crystal-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B03CFF1</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>22p</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B128482</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>22p</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B177039</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C01918E</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C01936B</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CB5C67F</tstamp>
+    </comp>
+    <comp ref="J19">
+      <value>Conn_02x03_Odd_Even</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_02x03_Odd_Even-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CCF71E5</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D113031</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10u</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D11332B</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle</value>
+      <datasheet>http://www.usb.org/developers/docs/usb_31_033017.zip</datasheet>
+      <libsource lib="Ortho1800-rescue" part="USB_C_Receptacle-Connector_Specialized" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B49F286</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C52259C</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C526C17</tstamp>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C526E83</tstamp>
+    </comp>
+    <comp ref="SW38">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C527101</tstamp>
+    </comp>
+    <comp ref="SW60">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C52737B</tstamp>
+    </comp>
+    <comp ref="SW65">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C52760D</tstamp>
+    </comp>
+    <comp ref="SW70">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C527875</tstamp>
+    </comp>
+    <comp ref="SW75">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C527AE5</tstamp>
+    </comp>
+    <comp ref="SW77">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C527D57</tstamp>
+    </comp>
+    <comp ref="SW78">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C527FD5</tstamp>
+    </comp>
+    <comp ref="SW89">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C52824B</tstamp>
+    </comp>
+    <comp ref="SW95">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5284C9</tstamp>
+    </comp>
+    <comp ref="SW83">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54A1C6</tstamp>
+    </comp>
+    <comp ref="SW88">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54A3AE</tstamp>
+    </comp>
+    <comp ref="SW94">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54A586</tstamp>
+    </comp>
+    <comp ref="SW99">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54A75E</tstamp>
+    </comp>
+    <comp ref="SW98">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54A940</tstamp>
+    </comp>
+    <comp ref="SW93">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54AB1C</tstamp>
+    </comp>
+    <comp ref="SW87">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54ACF8</tstamp>
+    </comp>
+    <comp ref="SW82">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54AED4</tstamp>
+    </comp>
+    <comp ref="SW81">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54B0B6</tstamp>
+    </comp>
+    <comp ref="SW86">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54B29E</tstamp>
+    </comp>
+    <comp ref="SW92">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54B480</tstamp>
+    </comp>
+    <comp ref="SW97">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54B664</tstamp>
+    </comp>
+    <comp ref="SW91">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54B854</tstamp>
+    </comp>
+    <comp ref="SW85">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54BA3E</tstamp>
+    </comp>
+    <comp ref="SW80">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54BC22</tstamp>
+    </comp>
+    <comp ref="SW79">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54BE0C</tstamp>
+    </comp>
+    <comp ref="SW84">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54C000</tstamp>
+    </comp>
+    <comp ref="SW90">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54C1F2</tstamp>
+    </comp>
+    <comp ref="SW96">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C54C3EA</tstamp>
+    </comp>
+    <comp ref="SW76">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C554697</tstamp>
+    </comp>
+    <comp ref="SW69">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C55488D</tstamp>
+    </comp>
+    <comp ref="SW59">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C554A89</tstamp>
+    </comp>
+    <comp ref="SW54">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C554C99</tstamp>
+    </comp>
+    <comp ref="SW49">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C554E9D</tstamp>
+    </comp>
+    <comp ref="SW44">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5550A3</tstamp>
+    </comp>
+    <comp ref="SW37">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5552A7</tstamp>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5554A9</tstamp>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5556AB</tstamp>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5558B1</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C555AC1</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C555CD1</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C555EDD</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5560E9</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C55631B</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C556535</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C55674D</tstamp>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BB95E</tstamp>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BBB76</tstamp>
+    </comp>
+    <comp ref="SW36">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BC1A0</tstamp>
+    </comp>
+    <comp ref="SW43">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BC3B6</tstamp>
+    </comp>
+    <comp ref="SW48">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BC5D4</tstamp>
+    </comp>
+    <comp ref="SW53">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BC7F2</tstamp>
+    </comp>
+    <comp ref="SW52">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BCA10</tstamp>
+    </comp>
+    <comp ref="SW47">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BCC34</tstamp>
+    </comp>
+    <comp ref="SW42">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BCE58</tstamp>
+    </comp>
+    <comp ref="SW35">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BD07C</tstamp>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BD2A6</tstamp>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BD4D4</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BD708</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BD934</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BDB60</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5BDD8A</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C222C</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C245C</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C269E</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C28D4</tstamp>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C2B1C</tstamp>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C2D60</tstamp>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C2FB6</tstamp>
+    </comp>
+    <comp ref="SW41">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C320C</tstamp>
+    </comp>
+    <comp ref="SW46">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C3460</tstamp>
+    </comp>
+    <comp ref="SW51">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C3A09</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C3C53</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C3EA5</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C40EB</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C4337</tstamp>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C458F</tstamp>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C47DB</tstamp>
+    </comp>
+    <comp ref="SW40">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C4A2B</tstamp>
+    </comp>
+    <comp ref="SW45">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C4C89</tstamp>
+    </comp>
+    <comp ref="SW50">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5C4ED9</tstamp>
+    </comp>
+    <comp ref="SW55">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D25B9</tstamp>
+    </comp>
+    <comp ref="SW61">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D2837</tstamp>
+    </comp>
+    <comp ref="SW66">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D2A95</tstamp>
+    </comp>
+    <comp ref="SW71">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D2CEF</tstamp>
+    </comp>
+    <comp ref="SW72">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D2F4F</tstamp>
+    </comp>
+    <comp ref="SW67">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D31A9</tstamp>
+    </comp>
+    <comp ref="SW62">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D3409</tstamp>
+    </comp>
+    <comp ref="SW56">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D3669</tstamp>
+    </comp>
+    <comp ref="SW57">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D38D5</tstamp>
+    </comp>
+    <comp ref="SW63">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D3B3F</tstamp>
+    </comp>
+    <comp ref="SW68">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D3DA5</tstamp>
+    </comp>
+    <comp ref="SW73">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D4015</tstamp>
+    </comp>
+    <comp ref="SW74">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D428B</tstamp>
+    </comp>
+    <comp ref="SW64">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D44F9</tstamp>
+    </comp>
+    <comp ref="SW58">
+      <value>SW_WITHLED</value>
+      <libsource lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C5D4771</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EBB4F88</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>LED</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EBB5386</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60675F0E</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676116</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606764A8</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676676</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676846</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676A14</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676BE6</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676DBE</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60676F96</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6067716E</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60677348</tstamp>
+    </comp>
+    <comp ref="J17">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60677524</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60677702</tstamp>
+    </comp>
+    <comp ref="PF6">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>606778E2</tstamp>
+    </comp>
+    <comp ref="PF7">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60677AC4</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value> </value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CD3A9D7</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE9ED73</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE9F16A</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE9F512</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE9FBDC</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE9FDDE</tstamp>
+    </comp>
+    <comp ref="D101">
+      <value>LED_Small</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D37F804</tstamp>
+    </comp>
+    <comp ref="D102">
+      <value>LED_Small</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D431D8B</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D43206D</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>22</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D43259A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Ortho1800-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E7B6A91</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>IRF7403</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.infineon.com/dgdl/irf7403pbf.pdf?fileId=5546d462533600a4015355fa23541b9c</datasheet>
+      <libsource lib="Transistor_FET" part="IRF7403" description="9.7A Id, 30V Vds, N-Channel HEXFET Power MOSFET, SO-8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CDB3F9F</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CDB5092</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D3C9F76</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="AT90USB1286-AU-MCU_Atmel_AVR">
+      <footprints>
+        <fp>TQFP*64*14x14mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AT90USB1286-AU-MCU_Atmel_AVR</field>
+        <field name="Footprint">Package_QFP:TQFP-64_14x14mm_P0.8mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6(INT6/AIN0)" type="BiDi"/>
+        <pin num="2" name="PE7(INT7/AIN1/UVCON)" type="BiDi"/>
+        <pin num="3" name="UVCC" type="power_in"/>
+        <pin num="4" name="D-" type="BiDi"/>
+        <pin num="5" name="D+" type="BiDi"/>
+        <pin num="6" name="UGND" type="power_in"/>
+        <pin num="7" name="UCAP" type="passive"/>
+        <pin num="8" name="VBUS" type="input"/>
+        <pin num="9" name="PE3(IUID)" type="BiDi"/>
+        <pin num="10" name="(SS/PCINT0)PB0" type="BiDi"/>
+        <pin num="11" name="(PCINT1/SCLK)PB1" type="BiDi"/>
+        <pin num="12" name="(PDI/PCINT2/MOSI)PB2" type="BiDi"/>
+        <pin num="13" name="(PDO/PCINT3/MISO)PB3" type="BiDi"/>
+        <pin num="14" name="(PCINT4/OC2A)PB4" type="BiDi"/>
+        <pin num="15" name="(PCINT5/OC1A)PB5" type="BiDi"/>
+        <pin num="16" name="(PCINT6/OC1B)PB6" type="BiDi"/>
+        <pin num="17" name="(PCINT7/OC0A/OC1C)PB7" type="BiDi"/>
+        <pin num="18" name="PE4(INT4/TOSC1)" type="BiDi"/>
+        <pin num="19" name="PE5(INT5/TOSC2)" type="BiDi"/>
+        <pin num="20" name="~RESET" type="input"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="XTAL2" type="BiDi"/>
+        <pin num="24" name="XTAL1" type="BiDi"/>
+        <pin num="25" name="(OC0B/SCL/INT0)PD0" type="BiDi"/>
+        <pin num="26" name="(OC2B/SDA/INT1)PD1" type="BiDi"/>
+        <pin num="27" name="(RXD1/INT2)PD2" type="BiDi"/>
+        <pin num="28" name="(TXD1/INT3)PD3" type="BiDi"/>
+        <pin num="29" name="(ICP1)PD4" type="BiDi"/>
+        <pin num="30" name="(XCK1)PD5" type="BiDi"/>
+        <pin num="31" name="(T1)PD6" type="BiDi"/>
+        <pin num="32" name="(T0)PD7" type="BiDi"/>
+        <pin num="33" name="PE0(~WR~)" type="BiDi"/>
+        <pin num="34" name="PE1(~RD~)" type="BiDi"/>
+        <pin num="35" name="(A8)PC0" type="BiDi"/>
+        <pin num="36" name="(A9)PC1" type="BiDi"/>
+        <pin num="37" name="(A10)PC2" type="BiDi"/>
+        <pin num="38" name="(A11/T3)PC3" type="BiDi"/>
+        <pin num="39" name="(A12/OC3C)PC4" type="BiDi"/>
+        <pin num="40" name="(A13/OC3B)PC5" type="BiDi"/>
+        <pin num="41" name="(A14/OC3A)PC6" type="BiDi"/>
+        <pin num="42" name="(A15/IC3/CLKO)PC7" type="BiDi"/>
+        <pin num="43" name="PE2(ALE/~HWB~)" type="BiDi"/>
+        <pin num="44" name="(AD7)PA7" type="BiDi"/>
+        <pin num="45" name="(AD6)PA6" type="BiDi"/>
+        <pin num="46" name="(AD5)PA5" type="BiDi"/>
+        <pin num="47" name="(AD4)PA4" type="BiDi"/>
+        <pin num="48" name="(AD3)PA3" type="BiDi"/>
+        <pin num="49" name="(AD2)PA2" type="BiDi"/>
+        <pin num="50" name="(AD1)PA1" type="BiDi"/>
+        <pin num="51" name="(AD0)PA0" type="BiDi"/>
+        <pin num="52" name="VCC" type="passive"/>
+        <pin num="53" name="GND" type="passive"/>
+        <pin num="54" name="PF7(ADC7/TDI)" type="BiDi"/>
+        <pin num="55" name="PF6(ADC6/TDO)" type="BiDi"/>
+        <pin num="56" name="PF5(ADC5/TMS)" type="BiDi"/>
+        <pin num="57" name="PF4(ADC4/TCK)" type="BiDi"/>
+        <pin num="58" name="PF3(ADC3)" type="BiDi"/>
+        <pin num="59" name="PF2(ADC2)" type="BiDi"/>
+        <pin num="60" name="PF1(ADC1)" type="BiDi"/>
+        <pin num="61" name="PF0(ADC0)" type="BiDi"/>
+        <pin num="62" name="AREF" type="input"/>
+        <pin num="63" name="GND" type="passive"/>
+        <pin num="64" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="C-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="Conn_01x01-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="Conn_01x02-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="Conn_01x04_Female-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="Conn_02x03_Odd_Even-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="Crystal-Device">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="D_ALT-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="R-Device">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="SW_DPST_x2-Switch">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DPST_x2-Switch</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="A" type="input"/>
+        <pin num="4" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="SW_WITHLED-sw_withled">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_WITHLED-sw_withled</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="USB_C_Receptacle-Connector_Specialized">
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle-Connector_Specialized</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A2" name="TX1+" type="BiDi"/>
+        <pin num="A3" name="TX1-" type="BiDi"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="BiDi"/>
+        <pin num="A6" name="D+" type="BiDi"/>
+        <pin num="A7" name="D-" type="BiDi"/>
+        <pin num="A8" name="SBU1" type="BiDi"/>
+        <pin num="A9" name="VBUS" type="power_in"/>
+        <pin num="A10" name="RX2-" type="BiDi"/>
+        <pin num="A11" name="RX2+" type="BiDi"/>
+        <pin num="A12" name="GND" type="power_in"/>
+        <pin num="B1" name="GND" type="power_in"/>
+        <pin num="B2" name="TX2+" type="BiDi"/>
+        <pin num="B3" name="TX2-" type="BiDi"/>
+        <pin num="B4" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="BiDi"/>
+        <pin num="B6" name="D+" type="BiDi"/>
+        <pin num="B7" name="D-" type="BiDi"/>
+        <pin num="B8" name="SBU2" type="BiDi"/>
+        <pin num="B9" name="VBUS" type="power_in"/>
+        <pin num="B10" name="RX1-" type="BiDi"/>
+        <pin num="B11" name="RX1+" type="BiDi"/>
+        <pin num="B12" name="GND" type="power_in"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ortho1800-rescue" part="WS2812S-LED">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">WS2812S-LED</field>
+        <field name="Footprint">LEDs:LED_WS2812-PLCC6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="5" name="VDD" type="power_in"/>
+        <pin num="6" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="IRF8721PBF-1">
+      <aliases>
+        <alias>IRF7403</alias>
+        <alias>FDS2734</alias>
+        <alias>FDS6630A</alias>
+      </aliases>
+      <description>14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8</description>
+      <docs>http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF8721PBF-1</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="input"/>
+        <pin num="5" name="D" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="7" name="D" type="passive"/>
+        <pin num="8" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Ortho1800-rescue">
+      <uri>C:\Users\steph\OneDrive\Documents\GitHub\Ortho1800/Ortho1800-rescue.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_FET.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D40-Pad2)">
+      <node ref="SW40" pin="2"/>
+      <node ref="D40" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="SW33" pin="2"/>
+    </net>
+    <net code="3" name="Net-(SW24-Pad4)">
+      <node ref="SW24" pin="4"/>
+      <node ref="SW33" pin="3"/>
+    </net>
+    <net code="4" name="Net-(SW18-Pad4)">
+      <node ref="SW24" pin="3"/>
+      <node ref="SW18" pin="4"/>
+    </net>
+    <net code="5" name="Net-(SW13-Pad4)">
+      <node ref="SW18" pin="3"/>
+      <node ref="SW13" pin="4"/>
+    </net>
+    <net code="6" name="Net-(SW33-Pad4)">
+      <node ref="SW40" pin="3"/>
+      <node ref="SW33" pin="4"/>
+    </net>
+    <net code="7" name="Net-(SW13-Pad3)">
+      <node ref="SW13" pin="3"/>
+      <node ref="SW7" pin="4"/>
+    </net>
+    <net code="8" name="Net-(SW1-Pad4)">
+      <node ref="SW7" pin="3"/>
+      <node ref="SW1" pin="4"/>
+    </net>
+    <net code="9" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2"/>
+      <node ref="SW51" pin="2"/>
+    </net>
+    <net code="10" name="Net-(SW46-Pad4)">
+      <node ref="SW51" pin="3"/>
+      <node ref="SW46" pin="4"/>
+    </net>
+    <net code="11" name="Net-(D68-Pad2)">
+      <node ref="SW67" pin="2"/>
+      <node ref="D68" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2"/>
+      <node ref="SW72" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D72-Pad2)">
+      <node ref="D72" pin="2"/>
+      <node ref="SW71" pin="2"/>
+    </net>
+    <net code="14" name="Net-(SW66-Pad4)">
+      <node ref="SW66" pin="4"/>
+      <node ref="SW71" pin="3"/>
+    </net>
+    <net code="15" name="Net-(D67-Pad2)">
+      <node ref="SW66" pin="2"/>
+      <node ref="D67" pin="2"/>
+    </net>
+    <net code="16" name="Net-(SW61-Pad4)">
+      <node ref="SW66" pin="3"/>
+      <node ref="SW61" pin="4"/>
+    </net>
+    <net code="17" name="Net-(D62-Pad2)">
+      <node ref="SW61" pin="2"/>
+      <node ref="D62" pin="2"/>
+    </net>
+    <net code="18" name="Net-(SW55-Pad4)">
+      <node ref="SW61" pin="3"/>
+      <node ref="SW55" pin="4"/>
+    </net>
+    <net code="19" name="Net-(D56-Pad2)">
+      <node ref="SW55" pin="2"/>
+      <node ref="D56" pin="2"/>
+    </net>
+    <net code="20" name="Net-(SW50-Pad4)">
+      <node ref="SW50" pin="4"/>
+      <node ref="SW55" pin="3"/>
+    </net>
+    <net code="21" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2"/>
+      <node ref="SW50" pin="2"/>
+    </net>
+    <net code="22" name="Net-(SW45-Pad4)">
+      <node ref="SW50" pin="3"/>
+      <node ref="SW45" pin="4"/>
+    </net>
+    <net code="23" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2"/>
+      <node ref="SW45" pin="2"/>
+    </net>
+    <net code="24" name="Net-(SW40-Pad4)">
+      <node ref="SW45" pin="3"/>
+      <node ref="SW40" pin="4"/>
+    </net>
+    <net code="25" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="26" name="Net-(SW3-Pad4)">
+      <node ref="SW3" pin="4"/>
+      <node ref="SW9" pin="3"/>
+    </net>
+    <net code="27" name="Net-(D9-Pad2)">
+      <node ref="SW9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="28" name="Net-(SW15-Pad3)">
+      <node ref="SW15" pin="3"/>
+      <node ref="SW9" pin="4"/>
+    </net>
+    <net code="29" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="SW15" pin="2"/>
+    </net>
+    <net code="30" name="Net-(SW15-Pad4)">
+      <node ref="SW20" pin="3"/>
+      <node ref="SW15" pin="4"/>
+    </net>
+    <net code="31" name="Net-(D20-Pad2)">
+      <node ref="SW20" pin="2"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="32" name="Net-(SW20-Pad4)">
+      <node ref="SW20" pin="4"/>
+      <node ref="SW26" pin="3"/>
+    </net>
+    <net code="33" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="SW26" pin="2"/>
+    </net>
+    <net code="34" name="Net-(SW26-Pad4)">
+      <node ref="SW26" pin="4"/>
+      <node ref="SW30" pin="3"/>
+    </net>
+    <net code="35" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2"/>
+      <node ref="SW30" pin="2"/>
+    </net>
+    <net code="36" name="Net-(SW30-Pad4)">
+      <node ref="SW30" pin="4"/>
+      <node ref="SW35" pin="3"/>
+    </net>
+    <net code="37" name="Net-(D36-Pad2)">
+      <node ref="SW35" pin="2"/>
+      <node ref="D36" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2"/>
+      <node ref="SW46" pin="2"/>
+    </net>
+    <net code="39" name="Net-(SW41-Pad4)">
+      <node ref="SW46" pin="3"/>
+      <node ref="SW41" pin="4"/>
+    </net>
+    <net code="40" name="Net-(D41-Pad2)">
+      <node ref="SW41" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="41" name="Net-(SW34-Pad4)">
+      <node ref="SW41" pin="3"/>
+      <node ref="SW34" pin="4"/>
+    </net>
+    <net code="42" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2"/>
+      <node ref="SW34" pin="2"/>
+    </net>
+    <net code="43" name="Net-(SW29-Pad4)">
+      <node ref="SW34" pin="3"/>
+      <node ref="SW29" pin="4"/>
+    </net>
+    <net code="44" name="Net-(D30-Pad2)">
+      <node ref="SW29" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="45" name="Net-(SW25-Pad4)">
+      <node ref="SW25" pin="4"/>
+      <node ref="SW29" pin="3"/>
+    </net>
+    <net code="46" name="Net-(D25-Pad2)">
+      <node ref="SW25" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="47" name="Net-(SW19-Pad4)">
+      <node ref="SW25" pin="3"/>
+      <node ref="SW19" pin="4"/>
+    </net>
+    <net code="48" name="Net-(SW14-Pad4)">
+      <node ref="SW19" pin="3"/>
+      <node ref="SW14" pin="4"/>
+    </net>
+    <net code="49" name="Net-(SW14-Pad3)">
+      <node ref="SW8" pin="4"/>
+      <node ref="SW14" pin="3"/>
+    </net>
+    <net code="50" name="Net-(SW2-Pad4)">
+      <node ref="SW8" pin="3"/>
+      <node ref="SW2" pin="4"/>
+    </net>
+    <net code="51" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2"/>
+      <node ref="SW64" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D74-Pad2)">
+      <node ref="SW73" pin="2"/>
+      <node ref="D74" pin="2"/>
+    </net>
+    <net code="53" name="Net-(SW68-Pad4)">
+      <node ref="SW68" pin="4"/>
+      <node ref="SW73" pin="3"/>
+    </net>
+    <net code="54" name="Net-(SW63-Pad4)">
+      <node ref="SW68" pin="3"/>
+      <node ref="SW63" pin="4"/>
+    </net>
+    <net code="55" name="Net-(D64-Pad2)">
+      <node ref="SW63" pin="2"/>
+      <node ref="D64" pin="2"/>
+    </net>
+    <net code="56" name="Net-(SW57-Pad4)">
+      <node ref="SW57" pin="4"/>
+      <node ref="SW63" pin="3"/>
+    </net>
+    <net code="57" name="Net-(D58-Pad2)">
+      <node ref="SW57" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+    <net code="58" name="Net-(SW51-Pad4)">
+      <node ref="SW51" pin="4"/>
+      <node ref="SW56" pin="3"/>
+    </net>
+    <net code="59" name="Net-(D57-Pad2)">
+      <node ref="SW56" pin="2"/>
+      <node ref="D57" pin="2"/>
+    </net>
+    <net code="60" name="Net-(SW62-Pad4)">
+      <node ref="SW67" pin="3"/>
+      <node ref="SW62" pin="4"/>
+    </net>
+    <net code="61" name="Net-(SW56-Pad4)">
+      <node ref="SW56" pin="4"/>
+      <node ref="SW62" pin="3"/>
+    </net>
+    <net code="62" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2"/>
+      <node ref="SW62" pin="2"/>
+    </net>
+    <net code="63" name="Net-(SW67-Pad4)">
+      <node ref="SW67" pin="4"/>
+      <node ref="SW72" pin="3"/>
+    </net>
+    <net code="64" name="Net-(SW58-Pad4)">
+      <node ref="SW58" pin="4"/>
+      <node ref="SW64" pin="3"/>
+    </net>
+    <net code="65" name="Net-(D59-Pad2)">
+      <node ref="SW58" pin="2"/>
+      <node ref="D59" pin="2"/>
+    </net>
+    <net code="66" name="Net-(SW64-Pad4)">
+      <node ref="SW64" pin="4"/>
+      <node ref="SW74" pin="3"/>
+    </net>
+    <net code="67" name="Net-(D94-Pad2)">
+      <node ref="SW93" pin="2"/>
+      <node ref="D94" pin="2"/>
+    </net>
+    <net code="68" name="Net-(SW93-Pad4)">
+      <node ref="SW98" pin="3"/>
+      <node ref="SW93" pin="4"/>
+    </net>
+    <net code="69" name="Net-(D99-Pad2)">
+      <node ref="SW98" pin="2"/>
+      <node ref="D99" pin="2"/>
+    </net>
+    <net code="70" name="Net-(SW94-Pad4)">
+      <node ref="SW94" pin="4"/>
+      <node ref="SW99" pin="3"/>
+    </net>
+    <net code="71" name="Net-(D95-Pad2)">
+      <node ref="SW94" pin="2"/>
+      <node ref="D95" pin="2"/>
+    </net>
+    <net code="72" name="Net-(SW88-Pad4)">
+      <node ref="SW94" pin="3"/>
+      <node ref="SW88" pin="4"/>
+    </net>
+    <net code="73" name="Net-(D89-Pad2)">
+      <node ref="D89" pin="2"/>
+      <node ref="SW88" pin="2"/>
+    </net>
+    <net code="74" name="Net-(SW83-Pad4)">
+      <node ref="SW88" pin="3"/>
+      <node ref="SW83" pin="4"/>
+    </net>
+    <net code="75" name="Net-(D84-Pad2)">
+      <node ref="SW83" pin="2"/>
+      <node ref="D84" pin="2"/>
+    </net>
+    <net code="76" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="SW95" pin="4"/>
+    </net>
+    <net code="77" name="Net-(D96-Pad2)">
+      <node ref="SW95" pin="2"/>
+      <node ref="D96" pin="2"/>
+    </net>
+    <net code="78" name="Net-(SW89-Pad4)">
+      <node ref="SW89" pin="4"/>
+      <node ref="SW95" pin="3"/>
+    </net>
+    <net code="79" name="Net-(D90-Pad2)">
+      <node ref="D90" pin="2"/>
+      <node ref="SW89" pin="2"/>
+    </net>
+    <net code="80" name="Net-(D86-Pad2)">
+      <node ref="SW85" pin="2"/>
+      <node ref="D86" pin="2"/>
+    </net>
+    <net code="81" name="Net-(D92-Pad2)">
+      <node ref="D92" pin="2"/>
+      <node ref="SW91" pin="2"/>
+    </net>
+    <net code="82" name="Net-(SW91-Pad4)">
+      <node ref="SW91" pin="4"/>
+      <node ref="SW97" pin="3"/>
+    </net>
+    <net code="83" name="Net-(D98-Pad2)">
+      <node ref="D98" pin="2"/>
+      <node ref="SW97" pin="2"/>
+    </net>
+    <net code="84" name="Net-(SW86-Pad4)">
+      <node ref="SW86" pin="4"/>
+      <node ref="SW92" pin="3"/>
+    </net>
+    <net code="85" name="Net-(D93-Pad2)">
+      <node ref="D93" pin="2"/>
+      <node ref="SW92" pin="2"/>
+    </net>
+    <net code="86" name="Net-(SW81-Pad4)">
+      <node ref="SW81" pin="4"/>
+      <node ref="SW86" pin="3"/>
+    </net>
+    <net code="87" name="Net-(SW73-Pad4)">
+      <node ref="SW73" pin="4"/>
+      <node ref="SW81" pin="3"/>
+    </net>
+    <net code="88" name="Net-(D82-Pad2)">
+      <node ref="SW81" pin="2"/>
+      <node ref="D82" pin="2"/>
+    </net>
+    <net code="89" name="Net-(SW74-Pad4)">
+      <node ref="SW74" pin="4"/>
+      <node ref="SW82" pin="3"/>
+    </net>
+    <net code="90" name="Net-(D83-Pad2)">
+      <node ref="SW82" pin="2"/>
+      <node ref="D83" pin="2"/>
+    </net>
+    <net code="91" name="Net-(SW87-Pad4)">
+      <node ref="SW87" pin="4"/>
+      <node ref="SW93" pin="3"/>
+    </net>
+    <net code="92" name="Net-(SW82-Pad4)">
+      <node ref="SW87" pin="3"/>
+      <node ref="SW82" pin="4"/>
+    </net>
+    <net code="93" name="Net-(D88-Pad2)">
+      <node ref="SW87" pin="2"/>
+      <node ref="D88" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2"/>
+      <node ref="SW12" pin="2"/>
+    </net>
+    <net code="95" name="Net-(SW12-Pad3)">
+      <node ref="SW6" pin="4"/>
+      <node ref="SW12" pin="3"/>
+    </net>
+    <net code="96" name="GNDA">
+      <node ref="U1" pin="63"/>
+      <node ref="R7" pin="1"/>
+      <node ref="J2" pin="A12"/>
+      <node ref="U1" pin="6"/>
+      <node ref="J2" pin="A1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="D102" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="D101" pin="1"/>
+      <node ref="U1" pin="53"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="C1" pin="2"/>
+      <node ref="LED1" pin="6"/>
+      <node ref="C3" pin="2"/>
+      <node ref="J2" pin="B1"/>
+      <node ref="J2" pin="B12"/>
+      <node ref="U1" pin="22"/>
+      <node ref="SW39" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="J2" pin="S1"/>
+      <node ref="J1" pin="S1"/>
+      <node ref="J19" pin="6"/>
+    </net>
+    <net code="97" name="VCC">
+      <node ref="R13" pin="1"/>
+      <node ref="J12" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="J19" pin="2"/>
+      <node ref="J2" pin="A9"/>
+      <node ref="J1" pin="A9"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="J1" pin="B9"/>
+      <node ref="J2" pin="B4"/>
+      <node ref="U1" pin="21"/>
+      <node ref="J2" pin="B9"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="52"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="LED1" pin="3"/>
+      <node ref="U1" pin="64"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="J2" pin="A4"/>
+      <node ref="U1" pin="8"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="98" name="Net-(SW78-Pad4)">
+      <node ref="SW89" pin="3"/>
+      <node ref="SW78" pin="4"/>
+    </net>
+    <net code="99" name="Net-(SW77-Pad4)">
+      <node ref="SW78" pin="3"/>
+      <node ref="SW77" pin="4"/>
+    </net>
+    <net code="100" name="Net-(D78-Pad2)">
+      <node ref="D78" pin="2"/>
+      <node ref="SW77" pin="2"/>
+    </net>
+    <net code="101" name="Net-(SW75-Pad4)">
+      <node ref="SW77" pin="3"/>
+      <node ref="SW75" pin="4"/>
+    </net>
+    <net code="102" name="Net-(D76-Pad2)">
+      <node ref="D76" pin="2"/>
+      <node ref="SW75" pin="2"/>
+    </net>
+    <net code="103" name="Net-(SW70-Pad4)">
+      <node ref="SW75" pin="3"/>
+      <node ref="SW70" pin="4"/>
+    </net>
+    <net code="104" name="Net-(SW85-Pad4)">
+      <node ref="SW85" pin="4"/>
+      <node ref="SW91" pin="3"/>
+    </net>
+    <net code="105" name="Net-(SW65-Pad4)">
+      <node ref="SW70" pin="3"/>
+      <node ref="SW65" pin="4"/>
+    </net>
+    <net code="106" name="Net-(D66-Pad2)">
+      <node ref="D66" pin="2"/>
+      <node ref="SW65" pin="2"/>
+    </net>
+    <net code="107" name="Net-(SW60-Pad4)">
+      <node ref="SW65" pin="3"/>
+      <node ref="SW60" pin="4"/>
+    </net>
+    <net code="108" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2"/>
+      <node ref="SW60" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2"/>
+      <node ref="SW38" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D29-Pad1)">
+      <node ref="SW23" pin="4"/>
+      <node ref="D29" pin="1"/>
+    </net>
+    <net code="111" name="Net-(SW12-Pad4)">
+      <node ref="SW23" pin="3"/>
+      <node ref="SW12" pin="4"/>
+    </net>
+    <net code="112" name="Net-(D16-Pad2)">
+      <node ref="SW16" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="113" name="Net-(SW21-Pad4)">
+      <node ref="SW27" pin="3"/>
+      <node ref="SW21" pin="4"/>
+    </net>
+    <net code="114" name="Net-(SW16-Pad4)">
+      <node ref="SW21" pin="3"/>
+      <node ref="SW16" pin="4"/>
+    </net>
+    <net code="115" name="Net-(SW10-Pad4)">
+      <node ref="SW16" pin="3"/>
+      <node ref="SW10" pin="4"/>
+    </net>
+    <net code="116" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="SW10" pin="2"/>
+    </net>
+    <net code="117" name="Net-(SW10-Pad3)">
+      <node ref="SW10" pin="3"/>
+      <node ref="SW4" pin="4"/>
+    </net>
+    <net code="118" name="Net-(D5-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="119" name="Net-(SW11-Pad3)">
+      <node ref="SW5" pin="4"/>
+      <node ref="SW11" pin="3"/>
+    </net>
+    <net code="120" name="Net-(D11-Pad2)">
+      <node ref="SW11" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="121" name="Net-(SW35-Pad4)">
+      <node ref="SW35" pin="4"/>
+      <node ref="SW42" pin="3"/>
+    </net>
+    <net code="122" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2"/>
+      <node ref="SW42" pin="2"/>
+    </net>
+    <net code="123" name="Net-(SW42-Pad4)">
+      <node ref="SW47" pin="3"/>
+      <node ref="SW42" pin="4"/>
+    </net>
+    <net code="124" name="Net-(D47-Pad2)">
+      <node ref="SW47" pin="2"/>
+      <node ref="D47" pin="2"/>
+    </net>
+    <net code="125" name="Net-(SW52-Pad4)">
+      <node ref="SW52" pin="4"/>
+      <node ref="SW57" pin="3"/>
+    </net>
+    <net code="126" name="Net-(SW47-Pad4)">
+      <node ref="SW52" pin="3"/>
+      <node ref="SW47" pin="4"/>
+    </net>
+    <net code="127" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2"/>
+      <node ref="SW52" pin="2"/>
+    </net>
+    <net code="128" name="Net-(SW53-Pad4)">
+      <node ref="SW53" pin="4"/>
+      <node ref="SW58" pin="3"/>
+    </net>
+    <net code="129" name="Net-(SW48-Pad4)">
+      <node ref="SW48" pin="4"/>
+      <node ref="SW53" pin="3"/>
+    </net>
+    <net code="130" name="Net-(D54-Pad2)">
+      <node ref="SW53" pin="2"/>
+      <node ref="D54" pin="2"/>
+    </net>
+    <net code="131" name="Net-(SW11-Pad4)">
+      <node ref="SW17" pin="3"/>
+      <node ref="SW11" pin="4"/>
+    </net>
+    <net code="132" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2"/>
+      <node ref="SW48" pin="2"/>
+    </net>
+    <net code="133" name="Net-(SW43-Pad4)">
+      <node ref="SW48" pin="3"/>
+      <node ref="SW43" pin="4"/>
+    </net>
+    <net code="134" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="SW43" pin="2"/>
+    </net>
+    <net code="135" name="Net-(SW36-Pad4)">
+      <node ref="SW36" pin="4"/>
+      <node ref="SW43" pin="3"/>
+    </net>
+    <net code="136" name="Net-(D37-Pad2)">
+      <node ref="SW36" pin="2"/>
+      <node ref="D37" pin="2"/>
+    </net>
+    <net code="137" name="Net-(SW31-Pad4)">
+      <node ref="SW31" pin="4"/>
+      <node ref="SW36" pin="3"/>
+    </net>
+    <net code="138" name="Net-(SW27-Pad4)">
+      <node ref="SW31" pin="3"/>
+      <node ref="SW27" pin="4"/>
+    </net>
+    <net code="139" name="Net-(D60-Pad2)">
+      <node ref="SW59" pin="2"/>
+      <node ref="D60" pin="2"/>
+    </net>
+    <net code="140" name="Net-(D70-Pad2)">
+      <node ref="SW69" pin="2"/>
+      <node ref="D70" pin="2"/>
+    </net>
+    <net code="141" name="Net-(SW76-Pad4)">
+      <node ref="SW76" pin="4"/>
+      <node ref="SW83" pin="3"/>
+    </net>
+    <net code="142" name="Net-(SW69-Pad4)">
+      <node ref="SW76" pin="3"/>
+      <node ref="SW69" pin="4"/>
+    </net>
+    <net code="143" name="Net-(D77-Pad2)">
+      <node ref="SW76" pin="2"/>
+      <node ref="D77" pin="2"/>
+    </net>
+    <net code="144" name="Net-(SW90-Pad4)">
+      <node ref="SW90" pin="4"/>
+      <node ref="SW96" pin="3"/>
+    </net>
+    <net code="145" name="Net-(SW59-Pad4)">
+      <node ref="SW59" pin="4"/>
+      <node ref="SW69" pin="3"/>
+    </net>
+    <net code="146" name="Net-(D91-Pad2)">
+      <node ref="SW90" pin="2"/>
+      <node ref="D91" pin="2"/>
+    </net>
+    <net code="147" name="Net-(SW84-Pad4)">
+      <node ref="SW90" pin="3"/>
+      <node ref="SW84" pin="4"/>
+    </net>
+    <net code="148" name="Net-(SW79-Pad4)">
+      <node ref="SW79" pin="4"/>
+      <node ref="SW84" pin="3"/>
+    </net>
+    <net code="149" name="Net-(SW71-Pad4)">
+      <node ref="SW71" pin="4"/>
+      <node ref="SW79" pin="3"/>
+    </net>
+    <net code="150" name="Net-(D80-Pad2)">
+      <node ref="D80" pin="2"/>
+      <node ref="SW79" pin="2"/>
+    </net>
+    <net code="151" name="Net-(SW80-Pad4)">
+      <node ref="SW85" pin="3"/>
+      <node ref="SW80" pin="4"/>
+    </net>
+    <net code="152" name="Net-(SW72-Pad4)">
+      <node ref="SW80" pin="3"/>
+      <node ref="SW72" pin="4"/>
+    </net>
+    <net code="153" name="Net-(D17-Pad2)">
+      <node ref="SW17" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="154" name="Net-(SW17-Pad4)">
+      <node ref="SW22" pin="3"/>
+      <node ref="SW17" pin="4"/>
+    </net>
+    <net code="155" name="Net-(SW22-Pad4)">
+      <node ref="SW22" pin="4"/>
+      <node ref="SW28" pin="3"/>
+    </net>
+    <net code="156" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2"/>
+      <node ref="SW28" pin="2"/>
+    </net>
+    <net code="157" name="Net-(SW32-Pad4)">
+      <node ref="SW32" pin="4"/>
+      <node ref="SW37" pin="3"/>
+    </net>
+    <net code="158" name="Net-(SW28-Pad4)">
+      <node ref="SW32" pin="3"/>
+      <node ref="SW28" pin="4"/>
+    </net>
+    <net code="159" name="Net-(D33-Pad2)">
+      <node ref="SW32" pin="2"/>
+      <node ref="D33" pin="2"/>
+    </net>
+    <net code="160" name="Net-(SW37-Pad4)">
+      <node ref="SW37" pin="4"/>
+      <node ref="SW44" pin="3"/>
+    </net>
+    <net code="161" name="Net-(D44-Pad2)">
+      <node ref="SW44" pin="2"/>
+      <node ref="D44" pin="2"/>
+    </net>
+    <net code="162" name="Net-(SW44-Pad4)">
+      <node ref="SW44" pin="4"/>
+      <node ref="SW49" pin="3"/>
+    </net>
+    <net code="163" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2"/>
+      <node ref="SW49" pin="2"/>
+    </net>
+    <net code="164" name="Net-(SW54-Pad4)">
+      <node ref="SW54" pin="4"/>
+      <node ref="SW59" pin="3"/>
+    </net>
+    <net code="165" name="Net-(SW49-Pad4)">
+      <node ref="SW54" pin="3"/>
+      <node ref="SW49" pin="4"/>
+    </net>
+    <net code="166" name="Net-(D55-Pad2)">
+      <node ref="SW54" pin="2"/>
+      <node ref="D55" pin="2"/>
+    </net>
+    <net code="167" name="Net-(J11-Pad1)">
+      <node ref="U1" pin="33"/>
+      <node ref="J11" pin="1"/>
+    </net>
+    <net code="168" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5"/>
+    </net>
+    <net code="169" name="Net-(PF7-Pad1)">
+      <node ref="U1" pin="54"/>
+      <node ref="PF7" pin="1"/>
+    </net>
+    <net code="170" name="Net-(PF6-Pad1)">
+      <node ref="U1" pin="55"/>
+      <node ref="PF6" pin="1"/>
+    </net>
+    <net code="171" name="Net-(J9-Pad1)">
+      <node ref="J9" pin="1"/>
+      <node ref="U1" pin="56"/>
+    </net>
+    <net code="172" name="Net-(J17-Pad1)">
+      <node ref="U1" pin="57"/>
+      <node ref="J17" pin="1"/>
+    </net>
+    <net code="173" name="Net-(J8-Pad1)">
+      <node ref="J8" pin="1"/>
+      <node ref="U1" pin="58"/>
+    </net>
+    <net code="174" name="Net-(J16-Pad1)">
+      <node ref="U1" pin="59"/>
+      <node ref="J16" pin="1"/>
+    </net>
+    <net code="175" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1"/>
+      <node ref="U1" pin="60"/>
+    </net>
+    <net code="176" name="Net-(J15-Pad1)">
+      <node ref="U1" pin="61"/>
+      <node ref="J15" pin="1"/>
+    </net>
+    <net code="177" name="Net-(J6-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="J6" pin="1"/>
+    </net>
+    <net code="178" name="Net-(J14-Pad1)">
+      <node ref="U1" pin="1"/>
+      <node ref="J14" pin="1"/>
+    </net>
+    <net code="179" name="Net-(J5-Pad1)">
+      <node ref="U1" pin="19"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="180" name="Net-(J13-Pad1)">
+      <node ref="U1" pin="18"/>
+      <node ref="J13" pin="1"/>
+    </net>
+    <net code="181" name="Net-(J4-Pad1)">
+      <node ref="U1" pin="9"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="182" name="Net-(J3-Pad1)">
+      <node ref="U1" pin="34"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="183" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5"/>
+    </net>
+    <net code="184" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="SW98" pin="4"/>
+    </net>
+    <net code="185" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="SW92" pin="4"/>
+    </net>
+    <net code="186" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2"/>
+      <node ref="SW97" pin="4"/>
+    </net>
+    <net code="187" name="Net-(R8-Pad2)">
+      <node ref="SW96" pin="4"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="188" name="WS2812">
+      <node ref="U1" pin="32"/>
+      <node ref="LED1" pin="2"/>
+    </net>
+    <net code="189" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="190" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="191" name="Net-(J1-PadB2)">
+      <node ref="J1" pin="B2"/>
+    </net>
+    <net code="192" name="Net-(J1-PadB3)">
+      <node ref="J1" pin="B3"/>
+    </net>
+    <net code="193" name="Net-(J1-PadA11)">
+      <node ref="J1" pin="A11"/>
+    </net>
+    <net code="194" name="Net-(J1-PadA10)">
+      <node ref="J1" pin="A10"/>
+    </net>
+    <net code="195" name="Net-(J1-PadA2)">
+      <node ref="J1" pin="A2"/>
+    </net>
+    <net code="196" name="Net-(J1-PadA3)">
+      <node ref="J1" pin="A3"/>
+    </net>
+    <net code="197" name="Net-(J1-PadB11)">
+      <node ref="J1" pin="B11"/>
+    </net>
+    <net code="198" name="Net-(J1-PadB10)">
+      <node ref="J1" pin="B10"/>
+    </net>
+    <net code="199" name="Net-(J1-PadB6)">
+      <node ref="J1" pin="B6"/>
+    </net>
+    <net code="200" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="A6"/>
+    </net>
+    <net code="201" name="Net-(J1-PadB7)">
+      <node ref="J1" pin="B7"/>
+    </net>
+    <net code="202" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="A7"/>
+    </net>
+    <net code="203" name="Net-(D50-Pad2)">
+      <node ref="SW60" pin="3"/>
+      <node ref="D50" pin="2"/>
+    </net>
+    <net code="204" name="Net-(D50-Pad1)">
+      <node ref="D50" pin="1"/>
+      <node ref="SW38" pin="4"/>
+    </net>
+    <net code="205" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2"/>
+      <node ref="SW38" pin="3"/>
+    </net>
+    <net code="206" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="SW99" pin="4"/>
+    </net>
+    <net code="207" name="Net-(Q1-Pad4)">
+      <node ref="R7" pin="2"/>
+      <node ref="Q1" pin="4"/>
+    </net>
+    <net code="208" name="Net-(Q1-Pad5)">
+      <node ref="Q1" pin="5"/>
+      <node ref="Q1" pin="6"/>
+      <node ref="Q1" pin="7"/>
+      <node ref="Q1" pin="8"/>
+    </net>
+    <net code="209" name="Led3">
+      <node ref="SW3" pin="3"/>
+    </net>
+    <net code="210" name="Led6">
+      <node ref="SW6" pin="3"/>
+    </net>
+    <net code="211" name="Led5">
+      <node ref="SW5" pin="3"/>
+    </net>
+    <net code="212" name="Led4">
+      <node ref="SW4" pin="3"/>
+    </net>
+    <net code="213" name="Led2">
+      <node ref="SW2" pin="3"/>
+    </net>
+    <net code="214" name="Led1">
+      <node ref="SW1" pin="3"/>
+    </net>
+    <net code="215" name="Net-(R5-Pad1)">
+      <node ref="U1" pin="25"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="216" name="Col7">
+      <node ref="SW43" pin="1"/>
+      <node ref="SW42" pin="1"/>
+      <node ref="U1" pin="35"/>
+      <node ref="SW41" pin="1"/>
+      <node ref="SW40" pin="1"/>
+      <node ref="SW44" pin="1"/>
+    </net>
+    <net code="217" name="Col6">
+      <node ref="SW33" pin="1"/>
+      <node ref="SW35" pin="1"/>
+      <node ref="SW34" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="SW38" pin="1"/>
+      <node ref="SW36" pin="1"/>
+      <node ref="SW37" pin="1"/>
+    </net>
+    <net code="218" name="Col5">
+      <node ref="SW29" pin="1"/>
+      <node ref="SW30" pin="1"/>
+      <node ref="SW31" pin="1"/>
+      <node ref="SW32" pin="1"/>
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="219" name="Col4">
+      <node ref="SW27" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="SW24" pin="1"/>
+      <node ref="SW28" pin="1"/>
+      <node ref="SW25" pin="1"/>
+      <node ref="SW26" pin="1"/>
+    </net>
+    <net code="220" name="Col3">
+      <node ref="SW18" pin="1"/>
+      <node ref="SW23" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="SW22" pin="1"/>
+      <node ref="SW19" pin="1"/>
+      <node ref="SW20" pin="1"/>
+      <node ref="SW21" pin="1"/>
+    </net>
+    <net code="221" name="Net-(D101-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="D101" pin="2"/>
+    </net>
+    <net code="222" name="Net-(D102-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="D102" pin="2"/>
+    </net>
+    <net code="223" name="Net-(R6-Pad1)">
+      <node ref="U1" pin="26"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="224" name="Col8">
+      <node ref="SW49" pin="1"/>
+      <node ref="SW48" pin="1"/>
+      <node ref="SW47" pin="1"/>
+      <node ref="U1" pin="36"/>
+      <node ref="SW45" pin="1"/>
+      <node ref="SW46" pin="1"/>
+    </net>
+    <net code="225" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="U1" pin="43"/>
+    </net>
+    <net code="226" name="Col17">
+      <node ref="SW78" pin="1"/>
+      <node ref="SW96" pin="1"/>
+      <node ref="SW99" pin="1"/>
+      <node ref="U1" pin="31"/>
+      <node ref="SW97" pin="1"/>
+      <node ref="SW98" pin="1"/>
+    </net>
+    <net code="227" name="Col16">
+      <node ref="SW90" pin="1"/>
+      <node ref="SW94" pin="1"/>
+      <node ref="SW93" pin="1"/>
+      <node ref="U1" pin="30"/>
+      <node ref="SW95" pin="1"/>
+      <node ref="SW91" pin="1"/>
+      <node ref="SW92" pin="1"/>
+    </net>
+    <net code="228" name="Col15">
+      <node ref="SW87" pin="1"/>
+      <node ref="SW88" pin="1"/>
+      <node ref="SW86" pin="1"/>
+      <node ref="SW84" pin="1"/>
+      <node ref="SW89" pin="1"/>
+      <node ref="U1" pin="29"/>
+      <node ref="SW85" pin="1"/>
+    </net>
+    <net code="229" name="TXd1">
+      <node ref="U1" pin="28"/>
+    </net>
+    <net code="230" name="RXd1">
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="231" name="Col14">
+      <node ref="SW81" pin="1"/>
+      <node ref="U1" pin="42"/>
+      <node ref="SW80" pin="1"/>
+      <node ref="SW79" pin="1"/>
+      <node ref="SW83" pin="1"/>
+      <node ref="SW77" pin="1"/>
+      <node ref="SW82" pin="1"/>
+    </net>
+    <net code="232" name="Col13">
+      <node ref="SW75" pin="1"/>
+      <node ref="SW76" pin="1"/>
+      <node ref="SW73" pin="1"/>
+      <node ref="SW74" pin="1"/>
+      <node ref="U1" pin="41"/>
+      <node ref="SW71" pin="1"/>
+      <node ref="SW72" pin="1"/>
+    </net>
+    <net code="233" name="Col12">
+      <node ref="SW69" pin="1"/>
+      <node ref="SW70" pin="1"/>
+      <node ref="SW68" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="SW66" pin="1"/>
+      <node ref="SW67" pin="1"/>
+    </net>
+    <net code="234" name="Col11">
+      <node ref="SW64" pin="1"/>
+      <node ref="SW61" pin="1"/>
+      <node ref="SW63" pin="1"/>
+      <node ref="SW62" pin="1"/>
+      <node ref="SW65" pin="1"/>
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="235" name="Col10">
+      <node ref="U1" pin="38"/>
+      <node ref="SW59" pin="1"/>
+      <node ref="SW57" pin="1"/>
+      <node ref="SW56" pin="1"/>
+      <node ref="SW58" pin="1"/>
+      <node ref="SW60" pin="1"/>
+      <node ref="SW55" pin="1"/>
+    </net>
+    <net code="236" name="Col9">
+      <node ref="SW51" pin="1"/>
+      <node ref="U1" pin="37"/>
+      <node ref="SW54" pin="1"/>
+      <node ref="SW52" pin="1"/>
+      <node ref="SW50" pin="1"/>
+      <node ref="SW53" pin="1"/>
+    </net>
+    <net code="237" name="Net-(D8-Pad2)">
+      <node ref="SW8" pin="2"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="238" name="Net-(D14-Pad2)">
+      <node ref="SW14" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="239" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="SW19" pin="2"/>
+    </net>
+    <net code="240" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="241" name="Net-(D97-Pad2)">
+      <node ref="D97" pin="2"/>
+      <node ref="SW96" pin="2"/>
+    </net>
+    <net code="242" name="Net-(D85-Pad2)">
+      <node ref="D85" pin="2"/>
+      <node ref="SW84" pin="2"/>
+    </net>
+    <net code="243" name="Net-(D79-Pad2)">
+      <node ref="SW78" pin="2"/>
+      <node ref="D79" pin="2"/>
+    </net>
+    <net code="244" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="245" name="Net-(D24-Pad2)">
+      <node ref="SW24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="246" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2"/>
+      <node ref="SW18" pin="2"/>
+    </net>
+    <net code="247" name="Net-(D13-Pad2)">
+      <node ref="SW13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="248" name="Net-(D7-Pad2)">
+      <node ref="SW7" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="249" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="250" name="Net-(D3-Pad2)">
+      <node ref="SW3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="251" name="Net-(D38-Pad2)">
+      <node ref="SW37" pin="2"/>
+      <node ref="D38" pin="2"/>
+    </net>
+    <net code="252" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="SW23" pin="2"/>
+    </net>
+    <net code="253" name="Net-(D22-Pad2)">
+      <node ref="SW22" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="254" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2"/>
+      <node ref="SW31" pin="2"/>
+    </net>
+    <net code="255" name="Net-(D27-Pad2)">
+      <node ref="SW27" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="256" name="Net-(D21-Pad2)">
+      <node ref="SW21" pin="2"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="257" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1"/>
+    </net>
+    <net code="258" name="Net-(LED1-Pad5)">
+      <node ref="LED1" pin="5"/>
+    </net>
+    <net code="259" name="/PD3">
+      <node ref="J20" pin="4"/>
+    </net>
+    <net code="260" name="/PD2">
+      <node ref="J20" pin="3"/>
+    </net>
+    <net code="261" name="/GND">
+      <node ref="J20" pin="2"/>
+    </net>
+    <net code="262" name="Net-(J20-Pad1)">
+      <node ref="J20" pin="1"/>
+    </net>
+    <net code="263" name="Net-(D81-Pad2)">
+      <node ref="SW80" pin="2"/>
+      <node ref="D81" pin="2"/>
+    </net>
+    <net code="264" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="265" name="MISO">
+      <node ref="J19" pin="1"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="266" name="SCLK">
+      <node ref="J19" pin="3"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="267" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="268" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="7"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="269" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1"/>
+      <node ref="U1" pin="62"/>
+    </net>
+    <net code="270" name="Row0">
+      <node ref="D62" pin="1"/>
+      <node ref="D67" pin="1"/>
+      <node ref="D72" pin="1"/>
+      <node ref="D85" pin="1"/>
+      <node ref="D91" pin="1"/>
+      <node ref="D97" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D80" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="U1" pin="51"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D56" pin="1"/>
+    </net>
+    <net code="271" name="Row1">
+      <node ref="U1" pin="50"/>
+      <node ref="D35" pin="1"/>
+      <node ref="D98" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D86" pin="1"/>
+      <node ref="D92" pin="1"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D41" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D68" pin="1"/>
+      <node ref="D73" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D81" pin="1"/>
+    </net>
+    <net code="272" name="Row2">
+      <node ref="D3" pin="1"/>
+      <node ref="D64" pin="1"/>
+      <node ref="D69" pin="1"/>
+      <node ref="D74" pin="1"/>
+      <node ref="D82" pin="1"/>
+      <node ref="D87" pin="1"/>
+      <node ref="D93" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="U1" pin="49"/>
+    </net>
+    <net code="273" name="Row3">
+      <node ref="D54" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D83" pin="1"/>
+      <node ref="D88" pin="1"/>
+      <node ref="D75" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="U1" pin="48"/>
+      <node ref="D99" pin="1"/>
+      <node ref="D94" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D65" pin="1"/>
+    </net>
+    <net code="274" name="Row4">
+      <node ref="D84" pin="1"/>
+      <node ref="D70" pin="1"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D100" pin="1"/>
+      <node ref="D89" pin="1"/>
+      <node ref="U1" pin="47"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D95" pin="1"/>
+      <node ref="D77" pin="1"/>
+    </net>
+    <net code="275" name="Row5">
+      <node ref="D12" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D61" pin="1"/>
+      <node ref="D66" pin="1"/>
+      <node ref="D71" pin="1"/>
+      <node ref="D76" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D78" pin="1"/>
+      <node ref="U1" pin="46"/>
+      <node ref="D90" pin="1"/>
+      <node ref="D96" pin="1"/>
+      <node ref="D79" pin="1"/>
+    </net>
+    <net code="276" name="Net-(U1-Pad45)">
+      <node ref="U1" pin="45"/>
+    </net>
+    <net code="277" name="Net-(U1-Pad44)">
+      <node ref="U1" pin="44"/>
+    </net>
+    <net code="278" name="Net-(D75-Pad2)">
+      <node ref="SW74" pin="2"/>
+      <node ref="D75" pin="2"/>
+    </net>
+    <net code="279" name="Net-(D71-Pad2)">
+      <node ref="SW70" pin="2"/>
+      <node ref="D71" pin="2"/>
+    </net>
+    <net code="280" name="Net-(D100-Pad2)">
+      <node ref="D100" pin="2"/>
+      <node ref="SW99" pin="2"/>
+    </net>
+    <net code="281" name="Net-(D87-Pad2)">
+      <node ref="SW86" pin="2"/>
+      <node ref="D87" pin="2"/>
+    </net>
+    <net code="282" name="Net-(D69-Pad2)">
+      <node ref="SW68" pin="2"/>
+      <node ref="D69" pin="2"/>
+    </net>
+    <net code="283" name="Net-(J2-PadB11)">
+      <node ref="J2" pin="B11"/>
+    </net>
+    <net code="284" name="Net-(J2-PadB5)">
+      <node ref="J2" pin="B5"/>
+    </net>
+    <net code="285" name="Net-(J2-PadA5)">
+      <node ref="J2" pin="A5"/>
+    </net>
+    <net code="286" name="Net-(J2-PadB8)">
+      <node ref="J2" pin="B8"/>
+    </net>
+    <net code="287" name="Net-(J2-PadA8)">
+      <node ref="J2" pin="A8"/>
+    </net>
+    <net code="288" name="Net-(J2-PadA11)">
+      <node ref="J2" pin="A11"/>
+    </net>
+    <net code="289" name="Net-(J2-PadA10)">
+      <node ref="J2" pin="A10"/>
+    </net>
+    <net code="290" name="Net-(J2-PadA2)">
+      <node ref="J2" pin="A2"/>
+    </net>
+    <net code="291" name="Net-(J2-PadA3)">
+      <node ref="J2" pin="A3"/>
+    </net>
+    <net code="292" name="Net-(J2-PadB10)">
+      <node ref="J2" pin="B10"/>
+    </net>
+    <net code="293" name="Net-(J2-PadA6)">
+      <node ref="R2" pin="2"/>
+      <node ref="J2" pin="B6"/>
+      <node ref="J2" pin="A6"/>
+    </net>
+    <net code="294" name="Net-(J2-PadA7)">
+      <node ref="R1" pin="2"/>
+      <node ref="J2" pin="A7"/>
+      <node ref="J2" pin="B7"/>
+    </net>
+    <net code="295" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="296" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="297" name="Net-(J18-Pad2)">
+      <node ref="J18" pin="2"/>
+    </net>
+    <net code="298" name="Net-(J18-Pad1)">
+      <node ref="J18" pin="1"/>
+    </net>
+    <net code="299" name="Net-(J2-PadB3)">
+      <node ref="J2" pin="B3"/>
+    </net>
+    <net code="300" name="Net-(J2-PadB2)">
+      <node ref="J2" pin="B2"/>
+    </net>
+    <net code="301" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="U1" pin="23"/>
+    </net>
+    <net code="302" name="RST">
+      <node ref="J19" pin="5"/>
+      <node ref="U1" pin="20"/>
+      <node ref="SW39" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="303" name="MOSI">
+      <node ref="J19" pin="4"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="304" name="Col2">
+      <node ref="SW16" pin="1"/>
+      <node ref="SW17" pin="1"/>
+      <node ref="SW13" pin="1"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW15" pin="1"/>
+    </net>
+    <net code="305" name="Col1">
+      <node ref="SW8" pin="1"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="SW11" pin="1"/>
+    </net>
+    <net code="306" name="Col0">
+      <node ref="SW3" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW6" pin="1"/>
+    </net>
+  </nets>
+</export>
